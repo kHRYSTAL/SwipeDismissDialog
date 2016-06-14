@@ -8,8 +8,6 @@ import android.content.Context;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AlertDialog;
-import android.support.v7.app.AppCompatDialog;
-import android.widget.ImageView;
 
 import java.util.Calendar;
 import java.util.Random;

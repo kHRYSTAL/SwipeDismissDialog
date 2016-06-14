@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.btn_show_progress).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ExampleDialogFragment.newInstance(ExampleDialogFragment.Type.DATE).show(getSupportFragmentManager(), "list");
+                ProgressDialogFragment.show(MainActivity.this,"drag dialog");
             }
         });
     }

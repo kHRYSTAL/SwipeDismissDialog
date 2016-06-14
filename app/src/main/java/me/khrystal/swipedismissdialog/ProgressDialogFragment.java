@@ -1,6 +1,5 @@
 package me.khrystal.swipedismissdialog;
 
-import android.app.Activity;
 import android.app.Dialog;
 import android.app.ProgressDialog;
 import android.os.Bundle;
