@@ -1,4 +1,4 @@
-package me.khrystal.swipedissmissdialog;
+package me.khrystal.swipedissmissdialog.test;
 
 import android.support.v4.app.DialogFragment;
 import android.view.View;

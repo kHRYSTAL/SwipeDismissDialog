@@ -12,7 +12,7 @@ import android.support.v7.app.AlertDialog;
 import java.util.Calendar;
 import java.util.Random;
 
-import me.khrystal.swipedissmissdialog.SwipeDismissDialog;
+import me.khrystal.swipedissmissdialog.test.SwipeDismissDialog;
 
 /**
  * usage:
